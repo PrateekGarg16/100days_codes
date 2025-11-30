@@ -1,6 +1,6 @@
 //Q: Create an enumeration for days (SUNDAY to SATURDAY) and print each day with its integer value.
 
-#include <stdio.h>
+#include<stdio.h>
 
 enum Day {
     SUNDAY,
@@ -43,5 +43,6 @@ WEDNESDAY = 3
 THURSDAY = 4
 FRIDAY = 5
 SATURDAY = 6
+
 
 */
