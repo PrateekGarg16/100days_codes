@@ -1,7 +1,7 @@
 
 // Q: Store multiple student records (name, roll number, marks) into a file using fprintf(). Then read them using fscanf() and display each record.
 
-#include <stdio.h>
+#include<stdio.h>
 
 struct Student {
     char name[50];
@@ -74,3 +74,4 @@ Name: Asha | Roll: 101 | Marks: 85
 Name: Ravi | Roll: 102 | Marks: 92
 
 */
+
