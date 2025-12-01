@@ -1,7 +1,7 @@
 //Q: Define an enum with SUCCESS, FAILURE, and TIMEOUT, and print messages accordingly.
 
-#include <stdio.h>
-#include <string.h>
+#include<stdio.h>
+#include<string.h>
 
 enum Status {
     SUCCESS,
@@ -50,5 +50,6 @@ Input 1:
 FAILURE
 Output 1:
 Operation failed
+
 
 */
