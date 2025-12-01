@@ -1,7 +1,7 @@
 // Q: Define an enum for traffic lights (RED, YELLOW, GREEN) and print 'Stop', 'Wait', or 'Go' based on its value.
 
-#include <stdio.h>
-#include <string.h>
+#include<stdio.h>
+#include<string.h>
 
 enum TrafficLight {
     RED,
@@ -51,5 +51,6 @@ Input 1:
 GREEN
 Output 1:
 Go
+
 
 */
