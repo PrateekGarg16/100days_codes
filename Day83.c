@@ -1,7 +1,7 @@
 //Q: Create an enum for months and print how many days each month has.
 
-#include <stdio.h>
-#include <string.h>
+#include<stdio.h>
+#include<string.h>
 
 enum Month {
     JAN, FEB, MAR, APR, MAY, JUN,
@@ -63,5 +63,6 @@ Input 1:
 FEB
 Output 1:
 28 or 29 days
+
 
 */
